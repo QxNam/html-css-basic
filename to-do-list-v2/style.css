@@ -1,0 +1,76 @@
+body{
+    background-color: lightcyan;
+}
+
+.container{
+    width:60%;
+    margin: 2% auto;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    border: 4px double black;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.content{
+    margin: 10px;
+}
+
+
+/* Style the table */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: x-large;
+}
+
+/* Style the table head */
+thead th {
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Style the table body */
+tbody td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+/* Style the checkbox */
+.cb {
+    transform: scale(1.5);
+    margin: 0 auto;
+    zoom: 1.5
+}
+
+button{
+    border-radius: 4px;
+    zoom: 1.5;
+}
+
+#add{
+    background-color: cyan;
+}
+.del{
+    background-color: lightcoral;
+}
+#input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    font-size: 30;
+    font-size: x-large;
+}

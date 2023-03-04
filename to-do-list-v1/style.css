@@ -1,0 +1,52 @@
+.container{
+    background-color: lightcyan;
+    border-color: gray;
+    border-radius: 10px;
+    border: groove;
+    margin-top: 2%;
+    /* height: 90%; */
+    height: auto;
+}
+
+.title>h1{
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+table{
+    font-size: 20;
+}
+
+#input{
+    border-radius: 5px;
+    width: 80%;
+    font-size: 20;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#add{
+    border-radius: 5px;
+    background-color: lightgreen;
+    width: 10%;
+}
+
+.del{
+    border-radius: 5px;
+    background-color: lightcoral;
+    width: 20%;
+}
+
+.cb{
+    border-radius: 5px;
+    zoom: 3;
+}
